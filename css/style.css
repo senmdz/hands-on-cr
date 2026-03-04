@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: #333;
+}
+
+.botoes {
+    margin-top: 30px;
+}
+
+.integrante {
+    display: block;
+    margin: 10px auto;
+    padding: 15px 30px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    background-color: #3C9D9B;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.integrante:hover {
+    background-color: #2e7d7b;
+    transform: scale(1.05);
+}
