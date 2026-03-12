@@ -5,7 +5,7 @@ A proposta é apresentar uma página inicial com os integrantes da equipe e pág
 
 ## Integrantes
 
-- Anna
+- Anna Luisa dos Santos
 - Emanuelly Mendes
 - Guilherme Guedes Montoni
 - Heitor Shiniti Miasato
@@ -14,7 +14,7 @@ A proposta é apresentar uma página inicial com os integrantes da equipe e pág
 
 ## Sobre o projeto
 
-Este projeto consiste em um pequeno site estático com uma página principal de navegação e páginas individuais de portfólio.  
+Este projeto consiste em um site estático com uma página principal de navegação e páginas individuais de portfólio.  
 Cada integrante apresenta:
 
 - seu nome
@@ -23,12 +23,11 @@ Cada integrante apresenta:
 - o motivo dessa escolha
 - curiosidades sobre esse local
 
-A organização segue a ideia de um README completo, com descrição do projeto, tecnologias utilizadas, requisitos, instalação, execução e exemplos de uso, como indicado no PDF de referência.  
-
 ## Objetivo
 
-O objetivo do trabalho é praticar:
+Objetivo principal: Aprendizado a função **code review** do GitHub 
 
+Extras:
 - estruturação de páginas com HTML
 - estilização com CSS
 - organização de arquivos em projeto web
